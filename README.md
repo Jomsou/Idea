@@ -5,7 +5,7 @@
 ### [1.My_plan(keeping)](My_plan.md)
 ### [2.Jomsou’s Blog（包括计算机、机械、硬件学习)(keeping)](http://jomsou.github.io)
 ### 3.把自己的学习整理成书 [docsify](https://docsify.js.org/#/zh-cn/custom-navbar)(sleeping)
-### 4.Git500 days(keeping)
+### [4.Git500 days(keeping)](Git500days.md)
 ### 5、项目（包括开源项目）写测试、指南，重构，迭代，交付(sleeping)
 ### 6.把自己做的项目整理成指南(sleeping)
 ### [7.练打字typing500days(sleeping)](练打字typing500days.md)
@@ -27,5 +27,5 @@
 ### 12.MusicOpen
 ### 13.温度显示杯
 ### 14.低头党提示软件
-
+### 15.购物清单大数据分析
 
