@@ -10,6 +10,9 @@
 ### 6.把自己做的项目整理成指南(sleeping)
 ### [7.练打字typing500days(sleeping)](练打字typing500days.md)
 ### [8.每天500行代码以上(keeping)](每天500行代码以上.md)
+### 9.听哥说
+### 10.读书笔记
+### 11.简搜导航
 
 
 ## Projects：
